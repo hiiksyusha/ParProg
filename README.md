@@ -5,5 +5,5 @@
 - [Многопоточное блочное перемножение квадратных матриц NxN](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/mat4.c)
 
 ## Полученные графики 
-###Однопоточное перемножение 
+### Однопоточное перемножение 
 [](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
