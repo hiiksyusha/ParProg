@@ -6,4 +6,4 @@
 
 ## Полученные графики 
 ### Однопоточное перемножение 
-![](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
+![Синий – блочное перемножение, розовый – наивное перемножение](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
