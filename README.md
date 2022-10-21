@@ -5,6 +5,7 @@
 - [Многопоточное блочное перемножение квадратных матриц NxN](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/mat4.c)
 
 ## Полученные графики 
+
 ### Однопоточное перемножение 
 Синий – блочное перемножение, розовый – наивное перемножение
 ![График1](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
