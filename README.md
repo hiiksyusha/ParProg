@@ -6,4 +6,4 @@
 
 ## Полученные графики 
 ### Однопоточное перемножение 
-[](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
+![](https://github.com/hiiksyusha/ParProg/blob/main/Matrix_multiplication/Matrix1.png)
